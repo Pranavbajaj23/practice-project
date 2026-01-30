@@ -1,4 +1,4 @@
 # practice-project
 this is my first git project
 <br>
-Author-Pranav Bajaj
+Author-Pranav Bajaj(CSE)
